@@ -6,4 +6,4 @@
 
 #
 * _Todas as classes foram testadas e executadas na IDE Intellij_ 
-* _Utilizei a classe JOptionPane do pacote java.swing para criar caixa de diálogo_
+* _Utilizei a classe JOptionPane da biblioteca java.swing para criar caixa de diálogo_
